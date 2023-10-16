@@ -10,3 +10,7 @@ Transformers Paper Presentation
 ### Sample output
 
 ### Processing overview
+
+## Critical Analysis
+
+## Resource Link - Citations
