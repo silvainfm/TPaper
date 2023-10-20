@@ -16,7 +16,7 @@ Transformers Paper Presentation
 * Perform pre-deployment testing like pre-mortems to surface risks.
 
 # Mistral
-* Mistral is a smaller LM with only 200 million parameters that has shown strong performance on NLP tasks.
+* Mistral is a smaller LM with only 7 billion parameters that has shown strong performance on NLP tasks.
 * It demonstrates that large parameter counts are not always necessary for good performance.
 * Smaller models like Mistral should be explored as an alternative to ever larger models.
   
