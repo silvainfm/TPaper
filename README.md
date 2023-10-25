@@ -2,7 +2,7 @@
 Transformers Paper Presentation
 
 ## Background
-* Language models (LMs) like BERT, GPT-3, etc have grown enormously in size in recent years, achieving high performance on NLP benchmarks.
+* Language models (LMs) like BERT, GPT-3, have grown enormously in size in recent years, achieving high performance on NLP benchmarks.
 * Key innovations enabling growth include Transformer architectures, pretraining objectives like masked language modeling, and web-scale training data.
 * For example, models have gone from millions of parameters (BERT) to hundreds of billions (GPT-3) to over a trillion (Switch-C).
 * But bigger models require more compute, data, fine-tuning, and have risks like environmental costs, financial costs, and encoding biases
