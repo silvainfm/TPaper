@@ -56,6 +56,7 @@ Training:
 
 ### Cost differences
 <img width="729" alt="cost_mVSg" src="https://github.com/silvainfm/TPaper/assets/61249160/50f669bc-1aa1-4560-80dd-af7572530486">
+
 From "Mistral 7B is 187x cheaper compared to GPT-4"
 
 ## Critical Analysis
