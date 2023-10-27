@@ -8,6 +8,9 @@ Published on March 1st 2021.
 * For example, models have gone from millions of parameters (BERT) to hundreds of billions (GPT-3) to over a trillion (Switch-C).
 * But bigger models require more compute, data, fine-tuning, and have risks like environmental costs, financial costs, and encoding biases
 
+<img width="566" alt="Screenshot 2023-10-27 at 17 11 46" src="https://github.com/silvainfm/TPaper/assets/61249160/0fdac739-7f32-4ad2-9023-ca6e80038360">
+
+
 ## Problem
 * Ever larger LMs incur high environmental and financial costs that limit access.
 * Massive web scraped training data likely encodes hegemonic worldviews that harm marginalized groups.
@@ -52,7 +55,8 @@ Training:
 * The efficiency, task generalization, and performance comparison would require more detailed information.
 
 ### Cost differences
-
+<img width="729" alt="cost_mVSg" src="https://github.com/silvainfm/TPaper/assets/61249160/50f669bc-1aa1-4560-80dd-af7572530486">
+From "Mistral 7B is 187x cheaper compared to GPT-4"
 
 ## Critical Analysis
 * The paper details several risks that could arise from deploying large language models into real-world systems:
