@@ -1,5 +1,6 @@
-# TPaper
-Transformers Paper Presentation
+# On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+By Emily M. Bender, Angelina McMillan-Major, Timnit Gebru, Shmargaret Shmitchell
+Published on March 1st 2021.
 
 ## Background
 * Language models (LMs) like BERT, GPT-3, have grown enormously in size in recent years, achieving high performance on NLP benchmarks.
@@ -11,6 +12,7 @@ Transformers Paper Presentation
 * Ever larger LMs incur high environmental and financial costs that limit access.
 * Massive web scraped training data likely encodes hegemonic worldviews that harm marginalized groups.
 * LMs don't actually understand language, but can manipulate linguistic form to game benchmarks.
+* Could be used for propaganda - malicious intent and manipulation of narratives
   
 ## Approach
 * Evaluate models on efficiency and carefully curate training data instead of web scraping.
@@ -43,12 +45,13 @@ Model Architecture:
 Training:
 * Masked language modeling
 * Next sentence prediction
-  
+
 ### Key differences 
 * Mistral-7B has fewer parameters compared to GPT-3 (and most likely GPT-4)
 * Mistral-7B and GPT-4 have different architectural choices and training objectives
 * The efficiency, task generalization, and performance comparison would require more detailed information.
 
+### Cost differences
 
 
 ## Critical Analysis
