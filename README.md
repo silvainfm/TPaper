@@ -22,13 +22,38 @@ Transformers Paper Presentation
 * It demonstrates that large parameter counts are not always necessary for good performance.
 * Smaller models like Mistral should be explored as an alternative to ever larger models.
   
-### Sample output
+## Mistral VS GPT-4
+### Mistral
+Parameters = 7.3 billion
+Model Architecture:
+* Decoder-based LM
+* Sliding Window Attention
+* Grouped Query Attention (GQA)
+Training:
+* Masked language modeling
+* Next sentence prediction
+* Machine translation
 
-### Processing overview
+### GPT-4
+Parameters = 175 billion
+Model Architecture:
+* Embedding layers
+* 96 Transformer layers (for GPT-3) - GPT-4 number not known
+* Output layer
+Training:
+* Masked language modeling
+* Next sentence prediction
+  
+### Key differences 
+* Mistral-7B has fewer parameters compared to GPT-3 (and most likely GPT-4)
+* Mistral-7B and GPT-4 have different architectural choices and training objectives
+* The efficiency, task generalization, and performance comparison would require more detailed information.
+
+
 
 ## Critical Analysis
 * The paper details several risks that could arise from deploying large language models into real-world systems:
-Stereotyping and bias risks: LMs trained on insufficiently curated web data may perpetuate harmful stereotypes about marginalized groups. This could lead to psychological harms, discrimination, and subjugation for affected groups.
+* Stereotyping and bias risks: LMs trained on insufficiently curated web data may perpetuate harmful stereotypes about marginalized groups. This could lead to psychological harms, discrimination, and subjugation for affected groups.
 * Misuse risks: Bad actors could deliberately misuse convincing LM-generated text for purposes like disinformation campaigns or extremist recruitment. This raises concerns about automation of propaganda.
 * Meaning attribution risks: Humans tend to mistakenly ascribe coherent meaning to LM output, even though LMs have no grounding in real meaning or intent. This risks ascribing accountability to an unaccountable system.
 * The authors frame these as "dual use" problems where the technology has some beneficial applications but also poses broader societal risks. This suggests a need for targeted interventions that mitigate harms while preserving benefits.
