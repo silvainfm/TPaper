@@ -25,7 +25,7 @@ Published on March 1st 2021.
 * Smaller models like Mistral should be explored as an alternative to ever larger models.
   
 ## Mistral VS GPT-4
-### Mistral
+### Mistral - Pseudocode
 Parameters = 7.3 billion
 Model Architecture:
 * Decoder-based LM
@@ -36,7 +36,7 @@ Training:
 * Next sentence prediction
 * Machine translation
 
-### GPT-4
+### GPT-4 - Pseudocode
 Parameters = 175 billion
 Model Architecture:
 * Embedding layers
@@ -66,6 +66,8 @@ Training:
 ## Resource Link - Citations
 * Bender, E.M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. Proceedings of FAccT. https://doi.org/10.1145/3442188.3445922
 * Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumeé III, H., & Crawford, K. (2020). Datasheets for datasets. arXiv preprint arXiv:1803.09010.
-* Birhane, A., & Prabhu, V. U. (2021). Large image datasets: A pyrrhic win for computer vision?. ICCV 2021 Workshop on Values in Vision.
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots for Social Good. Proceedings of ACM FAccT.
-* De Cao, N., Aziz, W., & Titov, I. (2021). Mistral: A Minimal Architecture for Multitask Learning. Transactions of the Association for Computational Linguistics, 9, 1269-1285.
+* [Mistral 7B is 187x cheaper compared to GPT-4](https://www.linkedin.com/pulse/mistral-7b-187x-cheaper-compared-gpt-4-tzejf#:~:text=%2B%20Follow%20Mistral%207B%20is,window%20attention.%20Group)
+* [ChatGPT-4 versus Mistral AI 7B](https://www.linkedin.com/pulse/chatgpt-4-versus-mistral-ai-7b-thibaud-cainne#:~:text=After%20a%20few%20hours%20struggling,4%20gives%20better)
+* [Mistral Code Demo - finetuning on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
+
