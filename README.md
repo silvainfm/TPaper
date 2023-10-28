@@ -62,10 +62,10 @@ Training:
 From "Mistral 7B is 187x cheaper compared to GPT-4"
 
 ## Critical Analysis
-* The paper details several risks that could arise from deploying large language models into real-world systems:
-* Stereotyping and bias risks: LMs trained on insufficiently curated web data may perpetuate harmful stereotypes about marginalized groups. This could lead to psychological harms, discrimination, and subjugation for affected groups.
-* Misuse risks: Bad actors could deliberately misuse convincing LM-generated text for purposes like disinformation campaigns or extremist recruitment. This raises concerns about automation of propaganda.
-* Meaning attribution risks: Humans tend to mistakenly ascribe coherent meaning to LM output, even though LMs have no grounding in real meaning or intent. This risks ascribing accountability to an unaccountable system.
+* Several risks that could arise from deploying large language models into real-world systems:
+  * Stereotyping and bias risks: LMs trained on insufficiently curated web data may perpetuate harmful stereotypes about marginalized groups. This could lead to psychological harms, discrimination, and subjugation for affected groups.
+  * Misuse risks: Bad actors could deliberately misuse convincing LM-generated text for purposes like disinformation campaigns or extremist recruitment. This raises concerns about automation of propaganda.
+  * Meaning attribution risks: Humans tend to mistakenly ascribe coherent meaning to LM output, even though LMs have no grounding in real meaning or intent. This risks ascribing accountability to an unaccountable system.
 * The authors frame these as "dual use" problems where the technology has some beneficial applications but also poses broader societal risks. This suggests a need for targeted interventions that mitigate harms while preserving benefits.
 * The risks highlight fundamental tensions in this research area - between open dissemination and careful control, between advances on leaderboards and real social impact, between excitement at synthetic fluency and humility about what has not yet been achieved.
 * The paper argues convincingly that the field needs to confront these tensions directly in order to steer research and applications of large LMs to socially beneficial ends. Doing so requires transparency about risks, avoiding hype, centering affected voices, and focusing always on the long-term goals we hope this technology will serve.
