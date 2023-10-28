@@ -54,6 +54,8 @@ Training:
 * Mistral-7B and GPT-4 have different architectural choices and training objectives
 * The efficiency, task generalization, and performance comparison would require more detailed information.
 
+### Question: How much cheaper to run is Mistral VS GPT-4? (give an order of magnitude)
+
 ### Cost differences
 <img width="729" alt="cost_mVSg" src="https://github.com/silvainfm/TPaper/assets/61249160/50f669bc-1aa1-4560-80dd-af7572530486">
 
