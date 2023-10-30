@@ -64,6 +64,17 @@ Training:
 From "Mistral 7B is 187x cheaper compared to GPT-4"
 
 ## Critical Analysis
+What the authors overlook: 
+* Benefits of large models - The authors focus heavily on risks and limitations, but could acknowledge more potential benefits, like usefulness for accessible AI applications. This would strengthen the overall balanced analysis.
+* Incremental approaches - While the paper advocates for small data and models, they could also propose incremental ways to scale up safely, leveraging techniques like staged model releases. A nuanced middle path between massive models and tiny models could be carved out.
+* Positive initiatives - Though critical overall, they overlook some positive work happening around equity, accountability, and transparency in AI. Highlighting progress could constructively advance goals.
+
+What could be futher developed: 
+* Concrete guidance - The authors take a high level view but could go further in providing concrete guidance and actionable steps for model development, documentation, testing... 
+* Engagement with affected groups - More direct engagement with marginalized populations could surface overlooked concerns and make proposals more responsive to community needs.
+* Long-term policy - they could look beyond technical interventions to long-term policy, regulation, and governance to align LM development with social good. More focus here could strengthen impact.
+
+## Conclusion
 * Several risks that could arise from deploying large language models into real-world systems:
   * Stereotyping and bias risks: LMs trained on insufficiently curated web data may perpetuate harmful stereotypes about marginalized groups. This could lead to psychological harms, discrimination, and subjugation for these groups.
   * Misuse risks: Bad actors could misuse convincing LM-generated text for purposes like disinformation campaigns or extremist recruitment. This raises concerns about automation of propaganda. For example, scams could become more convincing...
