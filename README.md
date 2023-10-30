@@ -14,11 +14,11 @@ Published on March 1st 2021.
 ## Problem
 * Ever larger LMs incur high environmental and financial costs that limit access.
 * Massive web scraped training data likely encodes hegemonic worldviews that harm marginalized groups.
-* LMs don't actually understand language, but can manipulate linguistic form to game benchmarks.
+* LMs don't actually understand language, but can manipulate linguistic form to game benchmarks. (most probable next token)
 * Could be used for propaganda - malicious intent and manipulation of narratives
   
 ## Approach
-* Evaluate models on efficiency and carefully curate training data instead of web scraping.
+* Evaluate models on efficiency and carefully curate training data instead of web scraping. Focus on data engineering.
 * Focus research on understanding model capabilities, not just leaderboard performance.
 * Perform pre-deployment testing like pre-mortems to surface risks.
 
@@ -38,6 +38,7 @@ Training:
 * Masked language modeling
 * Next sentence prediction
 * Machine translation
+[Code demo from Harper Carroll](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
 
 ### GPT-4 - Pseudocode
 Parameters = 175 billion
