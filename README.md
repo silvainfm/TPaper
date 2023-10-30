@@ -36,6 +36,7 @@ Model Architecture:
 * Decoder-based LM
 * Sliding Window Attention
 * Grouped Query Attention (GQA)
+
 Training:
 * Masked language modeling
 * Next sentence prediction
