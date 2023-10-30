@@ -10,6 +10,7 @@ Published on March 1st 2021.
 
 <img width="566" alt="Screenshot 2023-10-27 at 17 11 46" src="https://github.com/silvainfm/TPaper/assets/61249160/0fdac739-7f32-4ad2-9023-ca6e80038360">
 
+### Question: Are ever larger LMs inevitable or necessary? 
 
 ## Problem
 * Ever larger LMs incur high environmental and financial costs that limit access.
