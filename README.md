@@ -19,6 +19,7 @@ Published on March 1st 2021.
 * Could be used for propaganda - malicious intent and manipulation of narratives
   
 ## Approach
+* The old machine learning adage "Garbage In, Garbage Out" applies here.
 * Evaluate models on efficiency and carefully curate training data instead of web scraping. Focus on data engineering.
 * Focus research on understanding model capabilities, not just leaderboard performance.
 * Perform pre-deployment testing like pre-mortems to surface risks.
