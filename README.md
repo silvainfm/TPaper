@@ -1,5 +1,6 @@
 # On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
-By Emily M. Bender, Angelina McMillan-Major, Timnit Gebru, Shmargaret Shmitchell
+By Emily M. Bender, Angelina McMillan-Major, Timnit Gebru, Shmargaret Shmitchell.
+
 Published on March 1st 2021.
 
 ## Background
