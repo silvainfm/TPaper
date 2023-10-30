@@ -24,13 +24,14 @@ Published on March 1st 2021.
 * Evaluate models on efficiency and carefully curate training data instead of web scraping. Focus on data engineering.
 * Focus research on understanding model capabilities, not just leaderboard performance.
 * Perform pre-deployment testing like pre-mortems to surface risks.
-
-# Mistral
-* [Mistral](https://docs.mistral.ai) is a smaller LM with only 7 billion parameters that has shown strong performance on NLP tasks.
-* It demonstrates that large parameter counts are not always necessary for good performance.
-* Smaller models like Mistral should be explored as an alternative to ever larger models.
   
 ## Mistral VS GPT-4
+
+### Mistral
+* [Mistral](https://docs.mistral.ai) is a smaller LM with only ~7B parameters that has shown strong performance on NLP tasks.
+* It demonstrates that large parameter counts are not always necessary for good performance.
+* Smaller models like Mistral should be explored as an alternative to ever larger models.
+
 ### Mistral - Pseudocode
 Parameters = 7.3 billion
 Model Architecture:
