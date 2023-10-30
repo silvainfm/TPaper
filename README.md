@@ -64,6 +64,9 @@ Training:
 <img width="729" alt="cost_mVSg" src="https://github.com/silvainfm/TPaper/assets/61249160/50f669bc-1aa1-4560-80dd-af7572530486">
 
 From "Mistral 7B is 187x cheaper compared to GPT-4"
+* Using NVIDIA A100 40GB without quantization of the model (~$4/hour)
+* Running 50 parallel request
+* ~14.2 million input tokens and ~1.2 million output tokens
 
 ## Critical Analysis
 What the authors overlook: 
