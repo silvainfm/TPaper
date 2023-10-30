@@ -72,7 +72,7 @@ From "Mistral 7B is 187x cheaper compared to GPT-4"
 * The risks highlight fundamental tensions in this research area - between open dissemination and careful control, between advances on leaderboards and real social impact, between excitement at synthetic fluency and humility about what has not yet been achieved.
 * The paper argues convincingly that the field needs to confront these tensions directly for better research and applications of large LMs to socially beneficial ends. This requires transparency about risks, avoiding hype, centering affected voices, and focusing always on the long-term goals we hope this technology will serve.
   
-## Resource Link - Citations
+## Resources & Citations
 * Bender, E.M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. Proceedings of FAccT. https://doi.org/10.1145/3442188.3445922
 * Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumeé III, H., & Crawford, K. (2020). Datasheets for datasets. arXiv preprint arXiv:1803.09010.
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots for Social Good. Proceedings of ACM FAccT.
