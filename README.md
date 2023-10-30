@@ -41,7 +41,7 @@ Training:
 * Next sentence prediction
 * Machine translation
 
-[Code demo from Harper Carroll](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
+[Code demo from Harper Carroll - Head of AI at Brev.dev](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
 
 ### GPT-4 - Pseudocode
 Parameters = 175 billion
